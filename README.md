@@ -24,6 +24,6 @@ Images of objects and champions are taken from the web service 'http://ddragon.l
 For one launch, the app makes 1-2 requests at 'https://ru.api.riotgames.com/lol/static-data/v3/items'
 and 1 request at 'https://ap.api.riotgames.com/lol/ Static-data/v3/champions'.
 
-The app creates 4 temporary files in the 'C:\Users\{User}\AppData\Local\Temp' directory : 'ru_RUitem.json', 'en_USitem.json', 'db_items.json' and 'lol.ico'
+The app creates 4 temporary files in the 'C:\Users\\{User}\AppData\Local\Temp' directory : 'ru_RUitem.json', 'en_USitem.json', 'db_items.json' and 'lol.ico'
 
 The app has Russian and English localization
