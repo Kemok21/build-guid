@@ -1,4 +1,4 @@
-# build-guid
+# Build guide LoL(beta)
 App for operating system Windows.
 
 The app is designed to create files-guides for League of Legends.
