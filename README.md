@@ -21,4 +21,4 @@ After the first start, the app creates a setting file.
 
 Images of objects and champions are taken from the web service 'http://ddragon.leagueoflegends.com/'
 
-The app has Russian and English localization
+The app has English and Russian localization
